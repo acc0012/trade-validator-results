@@ -1,0 +1,22 @@
+{
+    "generated_at": "2026-02-22 18:22:36",
+    "ce_symbols": [
+        "NIFTY 50 24 FEB 2026 CALL 25500"
+    ],
+    "pe_symbols": [
+        "NIFTY 50 24 FEB 2026 PUT 25500"
+    ],
+    "index_symbols": [
+        "NIFTY 50 INDEX"
+    ],
+    "ce_min_time": "12-01-2026 11:23:00",
+    "ce_max_time": "20-02-2026 15:14:00",
+    "pe_min_time": "12-01-2026 11:25:00",
+    "pe_max_time": "20-02-2026 15:13:00",
+    "index_min_time": "12-01-2026 11:24:00",
+    "index_max_time": "20-02-2026 14:23:00",
+    "total_ce_entries": 241,
+    "total_pe_entries": 228,
+    "total_index_entries": 235,
+    "total_valid_matches": 115
+}
